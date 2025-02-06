@@ -238,5 +238,6 @@ Finally, we are going to save our new workbook to Tableau Public so we can retri
 ## Summary
 In this lesson, we created three customized plots for three different use cases. We created a bar plot to demonstrate profits among the different product sub-categories in the Super Store Sales data set. Then, we created a scatter plot to visualize the relationship between sales and discounts and added size to demonstrate the number of orders. Finally, we created a viz that communicates monthly sales over time for the three product categories.
 
-
+# brian-added
+## Study Viz available on: https://public.tableau.com/app/profile/brian.waweru/viz/dsfpt10-p1-dsc-v3-tableau-visualizations-lab/Sales?publish=yes
 
